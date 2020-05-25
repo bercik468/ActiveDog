@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ActiveDog/static/css/main.37f2d44a.chunk.css",
+    "main.js": "/ActiveDog/static/js/main.b56b2c6b.chunk.js",
+    "main.js.map": "/ActiveDog/static/js/main.b56b2c6b.chunk.js.map",
+    "runtime-main.js": "/ActiveDog/static/js/runtime-main.5758c414.js",
+    "runtime-main.js.map": "/ActiveDog/static/js/runtime-main.5758c414.js.map",
+    "static/css/2.a9137764.chunk.css": "/ActiveDog/static/css/2.a9137764.chunk.css",
+    "static/js/2.3063e88f.chunk.js": "/ActiveDog/static/js/2.3063e88f.chunk.js",
+    "static/js/2.3063e88f.chunk.js.map": "/ActiveDog/static/js/2.3063e88f.chunk.js.map",
+    "index.html": "/ActiveDog/index.html",
+    "precache-manifest.6838563ae7fd132d9ebb729afb92bdef.js": "/ActiveDog/precache-manifest.6838563ae7fd132d9ebb729afb92bdef.js",
+    "service-worker.js": "/ActiveDog/service-worker.js",
+    "static/css/2.a9137764.chunk.css.map": "/ActiveDog/static/css/2.a9137764.chunk.css.map",
+    "static/css/main.37f2d44a.chunk.css.map": "/ActiveDog/static/css/main.37f2d44a.chunk.css.map",
+    "static/js/2.3063e88f.chunk.js.LICENSE.txt": "/ActiveDog/static/js/2.3063e88f.chunk.js.LICENSE.txt",
+    "static/media/activedog4.jpg": "/ActiveDog/static/media/activedog4.9803cb90.jpg",
+    "static/media/mdb.scss": "/ActiveDog/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/ActiveDog/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5758c414.js",
+    "static/css/2.a9137764.chunk.css",
+    "static/js/2.3063e88f.chunk.js",
+    "static/css/main.37f2d44a.chunk.css",
+    "static/js/main.b56b2c6b.chunk.js"
+  ]
+}
